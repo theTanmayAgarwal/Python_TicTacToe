@@ -1,6 +1,6 @@
 '''
 Tic Tac Toe
-Repo owner: Md. Fahim Bin Amin
+Repo owner: Tanmay Agarwal
 Description: A console based Tic Tac Toe game
 -------------------------------------------------------------
 '''
