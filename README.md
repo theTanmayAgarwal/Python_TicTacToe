@@ -1,7 +1,7 @@
 # Python Tic Tac Toe
 A two players Tic Tac Toe console game using Python
 
-## 📦 Project Directory Structure
+By- Tanmay Agarwal
 
 ## 💻 Run the project
 
